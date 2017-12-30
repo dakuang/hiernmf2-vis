@@ -28,7 +28,7 @@ The entry point of the code is `workflow.py`. It starts from a text file to the 
 2. Run `python workflow.py test.txt 20` to generate 20 leaf clusters/topics. Adjust the number of clusters/topics according to your needs.
 
 ## Example
-Below is a visualization of 20 leaf topics generated on ~30,000 image captions from the [Yelp Challenge dataset](https://www.yelp.com/dataset/challenge).
+Below is a visualization of 20 leaf topics generated on ~30,000 image captions from the [Yelp Challenge dataset](https://www.yelp.com/dataset/challenge), which finished in a few seconds on a commodity PC laptop.
 
 ![](https://dakuang.github.io/images/hiernmf2-vis-example.png)
 
