@@ -29,3 +29,7 @@ The entry point of the code is `workflow.py`. It starts from a text file to the 
 
 ## Example
 Below is a visualization of 20 leaf topics generated on ~30,000 image captions from the [Yelp Challenge dataset](https://www.yelp.com/dataset/challenge).
+
+![](https://dakuang.github.io/images/hiernmf2-vis-example.png)
+
+Reference: https://github.com/dakuang/hiernmf2
